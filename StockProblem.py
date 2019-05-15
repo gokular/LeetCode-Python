@@ -16,5 +16,5 @@ class Solution:
                 profit = max
         return profit
 
-    price = [7,6,4,3,8]
+    price = [7,6,4,3,1]
     print(maxProfit(price))
