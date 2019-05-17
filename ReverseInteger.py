@@ -1,3 +1,6 @@
+# Takes in any int and reverses the order of it. If the inputted number is
+# negative, then negative is kept at the begninning. Only 32-bit numbers are accepted.
+
 class Solution:
     def reverse(x: int) -> int:
         if(x < -2147483648 or x > 2147483647):
