@@ -1,3 +1,4 @@
+# Reverses any inputted charachter array. Directly changes inputted variable, None return.
 class Solution:
     def reverseString(s) -> None:
         tempString = ''
