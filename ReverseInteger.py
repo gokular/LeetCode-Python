@@ -20,4 +20,4 @@ class Solution:
                 return 0
             return result
     
-    print(reverse(123))
+    print(reverse(1234))
